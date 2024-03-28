@@ -1,4 +1,3 @@
-package MyApp.src;
 import java.util.Scanner;
 
 public class FizzBuzz {
